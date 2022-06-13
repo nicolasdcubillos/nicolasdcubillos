@@ -10,6 +10,6 @@
 ### My stats :fire: 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasdcubillos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasdcubillos&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdcubillos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdcubillos&layout=compact&theme=github_dark)
