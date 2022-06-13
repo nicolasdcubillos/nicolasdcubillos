@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nicolasdcubillos/nicolasdcubillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on <b>Pontificia Universidad Javeriana</b>.
+- :zap: I use daily `.java`, `.cpp` and `.py`
+- 🌱 I’m currently learning <b>Java</b>, <b>Angular</b> and <b>Spring Boot</b>.
+- 💬 Ask me about <b>C++</b> and <b>SQL</b>.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My stats
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasdcubillos&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdcubillos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
