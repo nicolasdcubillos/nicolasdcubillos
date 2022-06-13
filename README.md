@@ -7,7 +7,7 @@
 
 ---
 
-### :fire: My stats
+### My stats :fire: 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasdcubillos&theme=dark&background=000000)](https://git.io/streak-stats)
