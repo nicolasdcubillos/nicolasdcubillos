@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <b>Pontificia Universidad Javeriana</b>.
+- 🔭 I’m currently studying at <b>Pontificia Universidad Javeriana</b>.
 - :zap: I use daily `.java`, `.cxx` and `.py`.
 - 🌱 I’m currently learning <b>Angular</b>, <b>Spring Boot</b> and <b>.NET</b>.
 - 💬 Ask me about <b>C++</b> and <b>SQL</b>.
