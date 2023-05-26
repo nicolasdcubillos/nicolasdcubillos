@@ -7,4 +7,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdcubillos&theme=material-palenight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdcubillos&theme=nord)]
