@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at <b>Microsoft</b>.
-- :zap: I use daily `.java`, `.cxx` and `.py`.
+- :zap: I use daily `.java`, `.cxx` and `.cs`.
 - 🌱 I’m currently learning <b>Software Architecture</b>.
 - 💬 Ask me about <b>C++</b>, <b>Java</b> and <b>SQL</b>.
 
